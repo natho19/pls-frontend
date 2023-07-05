@@ -1,8 +1,8 @@
 @import 'https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400;500;600;700;800;900&display=swap';
 :root {
     --font-family: 'Inter', sans-serif;
-    --primary: #3366ff;
-    --primary-dark: #0038e0;
+    --primary: #00b050;
+    --primary-dark: #009e6f;
     --primary-light: #e2f1ff;
     --accent: #00d4d7;
     --accent-dark: #00bac1;
